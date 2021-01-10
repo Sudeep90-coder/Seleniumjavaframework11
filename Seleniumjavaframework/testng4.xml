@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite4">
+<test  name="Test4">
+
+<parameter name="Myname" value="Automation"></parameter>
+
+<classes>
+
+<class name="Test.TestNGparameterdemo"></class>
+</classes>
+  </test> <!-- Test4 -->
+</suite> <!-- Suite4 -->
